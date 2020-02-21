@@ -1,11 +1,11 @@
 # Site settings
-author: qiong sun
-title: 
+author: Qiong Sun
+title: Software Engineer
 header-img: img/home-bg.png
 email: joannesun44@gmail.com
-copyright_name: qiong sun
+copyright_name: Qiong Sun
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I want to become a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  joannesun44
